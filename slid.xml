@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Products>
+
+    <item>
+        <id>caption0</id>
+        <name>Almond</name>
+        <price>&#x20b9;95-&#x20b9;1000</price>
+        <offer>Upto 10%off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption1</id>
+        <name>Safola</name>
+        <price>&#x20b9;1005-&#x20b9;1000</price>
+        <offer>Upto 20%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption2</id>
+        <name>Oats</name>
+        <price>&#x20b9;5-&#x20b9;10000</price>
+        <offer>Upto 30%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption3</id>
+        <name>Powder</name>
+        <price>&#x20b9;150-&#x20b9;10000</price>
+        <offer>Upto 10%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption4</id>
+        <name>Coconut Powder</name>
+        <price>&#x20b9;105-&#x20b9;5000</price>
+        <offer>Upto 50%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption5</id>
+        <name>Bournvita</name>
+        <price>&#x20b9;105-&#x20b9;5000</price>
+        <offer>Upto 10%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption6</id>
+        <name>Horlicks</name>
+        <price>&#x20b9;5-&#x20b9;5000</price>
+        <offer>Upto 20%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption7</id>
+        <name>Pediasure</name>
+        <price>&#x20b9;105-&#x20b9;5000</price>
+        <offer>Upto 50%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption8</id>
+        <name>FruitBeer</name>
+        <price>&#x20b9;15-&#x20b9;2000</price>
+        <offer>Upto 10%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption9</id>
+        <name>Safola</name>
+        <price>&#x20b9;95-&#x20b9;1000</price>
+        <offer>Upto 10%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption10</id>
+        <name>Headphones</name>
+        <price>&#x20b9;15-&#x20b9;1000</price>
+        <offer>Upto 30%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption11</id>
+        <name>Flour</name>
+        <price>&#x20b9;5-&#x20b9;10000</price>
+        <offer>Upto 50%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <item>
+        <id>caption12</id>
+        <name>Cream</name>
+        <price>&#x20b9;95-&#x20b9;100</price>
+        <offer>Upto 10%Off</offer>
+        <availability>Available</availability>
+        <instock>yes</instock>
+    </item>
+    <up>
+        <id>test</id>
+        <data>There are no active deals that match the filters you've applied</data>
+        <availability>upcoming</availability>
+    </up>
+
+    <item>
+        <id>it1</id>
+        <name>Triphala</name>
+        <price>&#x20b9;5-&#x20b9;100</price>
+        <offer>Upto 50%Off</offer>
+        <availability>Missed</availability>
+        <instock>No</instock>
+    </item>
+    <item>
+        <id>it2</id>
+        <name>Oats</name>
+        <price>&#x20b9;95-&#x20b9;100</price>
+        <offer>Upto 10%off</offer>
+        <availability>Missed</availability>
+        <instock>No</instock>
+    </item>
+    <item>
+        <id>it3</id>
+        <name>Kissan Jam</name>
+        <price>&#x20b9;100-&#x20b9;1000</price>
+        <offer>Upto 30%off</offer>
+        <availability>Missed</availability>
+        <instock>No</instock>
+    </item>
+    <item>
+        <id>it4</id>
+        <name>Iphone5S</name>
+        <price>&#x20b9;25000-&#x20b9;40000</price>
+        <offer>Upto 20%off</offer>
+        <availability>Missed</availability>
+        <instock>No</instock>
+    </item>
+</Products>
+
+
